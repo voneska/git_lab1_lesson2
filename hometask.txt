@@ -1,1 +1,13 @@
 "with nice buttons on his jacket (buttons branch)" есть в ветке master в файле README. А в demo нет
+Commit comments:
+11. described the difference between master and demo
+10. Merge branch 'boots_buttons'
+9. Merge remote-tracking branch 'origin/hat'
+8. Merge remote-tracking branch 'origin/buttons' into boots_buttons
+7. Merge remote-tracking branch 'origin/boots' into boots_buttons
+6. fix readme
+5. dots
+4. README added
+3. boots
+2. heat added
+1. init
